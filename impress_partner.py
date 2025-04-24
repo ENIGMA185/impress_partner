@@ -276,7 +276,7 @@ def txt():
 	pen.setpos(-600,-305) 
 	pen.down() 
 	pen.color('red') 
-	pen.write("I Love you Baby \u2764\ufe0f...You are MINE... HAPPY VALENTINES DAY DEAR", font=("Courier", 15, "italic"))
+	pen.write("I Love you Baby \u2764\ufe0f...You are MINE..., font=("Courier", 15, "italic"))
 
 
 
